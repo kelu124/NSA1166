@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MOSIE Pin=K1-6
+Removed Pin From Net: NetName=CSE Pin=K1-7
+Removed Pin From Net: NetName=CSE Pin=K1-7
+Removed Pin From Net: NetName=SCKE Pin=K1-8
+Added Pin To Net: NetName=SCKE Pin=K1-6
+Added Pin To Net: NetName=MOSIE Pin=K1-7
+Added Pin To Net: NetName=MOSIE Pin=K1-7
+Added Pin To Net: NetName=CSE Pin=K1-8
+Added Member To Class: ClassName=7_seg Member=Component LED1 NSA1166

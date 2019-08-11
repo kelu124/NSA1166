@@ -1,0 +1,5 @@
+Added Component: Designator=K2(IDC-06)
+Added Pin To Net: NetName=SDA Pin=K2-3
+Added Pin To Net: NetName=SCL Pin=K2-4
+Added Pin To Net: NetName=GND Pin=K2-6
+Added Member To Class: ClassName=7_seg Member=Component K2 IDC-06

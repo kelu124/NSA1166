@@ -1,0 +1,19 @@
+Added Component: Designator=D1(SOD323)
+Added Component: Designator=P?(PLD-22 ,2x11 ,2.54 mm pitch)
+Added Pin To Net: NetName=SW Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=P?-2
+Added Pin To Net: NetName=SCL Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=RST Pin=P?-9
+Added Pin To Net: NetName=INT Pin=P?-11
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Pin To Net: NetName=MOSIE Pin=P?-17
+Added Pin To Net: NetName=GND Pin=P?-20
+Added Pin To Net: NetName=SCKE Pin=P?-21
+Added Pin To Net: NetName=CSE Pin=P?-22
+Added Pin To Net: NetName=REM Pin=D1-2
+Added Pin To Net: NetName=REM Pin=P?-13
+Added Net: Name=REM
+Added Member To Class: ClassName=7_seg Member=Component D1 DiodeShottky_SOD323
+Added Member To Class: ClassName=7_seg Member=Component P? 2x11,2.54mm vertical

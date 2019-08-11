@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Added Component: Designator=C3(CAP_POL_SMB (3528))
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Change Net Name : Old Net Name=NetLED?_3 New Net Name=NetLED1_3
+Change Net Name : Old Net Name=NetLED?_5 New Net Name=NetLED1_5
+Change Net Name : Old Net Name=NetLED?_6 New Net Name=NetLED1_6
+Change Net Name : Old Net Name=NetLED?_7 New Net Name=NetLED1_7
+Change Net Name : Old Net Name=NetLED?_8 New Net Name=NetLED1_8
+Change Net Name : Old Net Name=NetLED?_9 New Net Name=NetLED1_9
+Change Net Name : Old Net Name=NetLED?_10 New Net Name=NetLED1_10
+Change Net Name : Old Net Name=NetLED?_11 New Net Name=NetLED1_11
+Change Net Name : Old Net Name=NetLED?_12 New Net Name=NetLED1_12
+Change Net Name : Old Net Name=NetLED?_13 New Net Name=NetLED1_13
+Change Net Name : Old Net Name=NetLED?_14 New Net Name=NetLED1_14
+Change Net Name : Old Net Name=NetLED?_15 New Net Name=NetLED1_15
+Change Net Name : Old Net Name=NetLED?_16 New Net Name=NetLED1_16
+Change Net Name : Old Net Name=NetLED?_17 New Net Name=NetLED1_17
+Added Member To Class: ClassName=7_seg Member=Component C3 CAP_POL_SMB
